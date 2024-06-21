@@ -15,6 +15,8 @@
         <Link class="navbar-brand me-lg-3" href="/student/dashboard">
                 <img class="navbar-brand-dark" src="{{ asset('assets/logocbt.png') }}" style="height:70px">
             </Link>
+
+            <button class="bg-red-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-red-600">Akhiri Ujian</button>
         
 </nav>
     <div class="w-full flex max-w-screen-xl flex-wrap">
@@ -71,10 +73,6 @@
                 <button class="bg-gray-300 text-gray-700 px-4 py-2 rounded-md">8</button>
                 <button class="bg-gray-300 text-gray-700 px-4 py-2 rounded-md">9</button>
                 <button class="bg-gray-300 text-gray-700 px-4 py-2 rounded-md">10</button>
-            </div>
-            <div class="flex justify-between">
-                <button class="bg-red-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-red-600">Akhiri Ujian</button>
-                <button class="bg-green-500 text-white px-4 py-2 rounded-md shadow-md hover:bg-green-600">Simpan Jawaban</button>
             </div>
         </div>
         </div>

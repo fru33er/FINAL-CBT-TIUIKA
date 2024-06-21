@@ -54,38 +54,7 @@
             </div>
 
             
-            <div class="mt-8 ml-10 bg-white p-8 rounded-lg shadow-lg">
-            <h2 class="text-2xl font-bold mb-4">UTS (Ujian Tengah Semester)</h2>
-            <div class="space-y-2">
-                <div class="flex justify-between">
-                    <span class="font-semibold">Mata Pelajaran</span>
-                    <span>Metode Penelitian</span>
-                </div>
-                <div class="flex justify-between">
-                    <span class="font-semibold">Kelas</span>
-                    <span>Reguler B</span>
-                </div>
-                <div class="flex justify-between">
-                    <span class="font-semibold">Dosen</span>
-                    <span>Safarudin Hidayat</span>
-                </div>
-                <div class="flex justify-between">
-                    <span class="font-semibold">Durasi</span>
-                    <span>90 Menit</span>
-                </div>
-                <div class="flex justify-between">
-                    <span class="font-semibold">Mulai</span>
-                    <span>2024-03-25 / 08:00:00</span>
-                </div>
-                <div class="flex justify-between">
-                    <span class="font-semibold">Selesai</span>
-                    <span>2024-03-25 / 09:30:00</span>
-                </div>
-            </div>
-            <div class="flex justify-center mt-8">
-                <button class="bg-green-500 text-white px-6 py-2 rounded-md shadow-md hover:bg-green-600">Kerjakan</button>
-            </div>
-            </div>
+            
         </div>
     </div>
 </body>
